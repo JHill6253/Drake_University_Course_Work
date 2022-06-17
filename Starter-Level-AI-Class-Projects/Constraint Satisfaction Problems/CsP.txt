@@ -1,0 +1,192 @@
+Spend+ More = Money:
+C:\Users\john\PycharmProjects\CS\venv\Scripts\python.exe C:/Users/john/PycharmProjects/CS/HillA9pt3/twofourcsp.py
+done
+S : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+E : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+N : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+D : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+M : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+O : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+R : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+Y : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+S : [2]
+E : [8]
+N : [1]
+D : [7]
+M : [0]
+O : [3]
+R : [6]
+Y : [5]
+N-queens 20:
+C:\Users\john\PycharmProjects\CS\venv\Scripts\python.exe C:/Users/john/PycharmProjects/CS/HillA9pt3/N-Queens.py
+1 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+2 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+3 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+4 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+5 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+6 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+7 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+8 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+9 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+10 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+11 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+12 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+13 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+14 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+15 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+16 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+17 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+18 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+19 : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+
+1 : ['1']
+2 : ['3']
+3 : ['5']
+4 : ['2']
+5 : ['4']
+6 : ['9']
+7 : ['13']
+8 : ['15']
+9 : ['17']
+10 : ['19']
+11 : ['7']
+12 : ['16']
+13 : ['18']
+14 : ['11']
+15 : ['6']
+16 : ['8']
+17 : ['10']
+18 : ['12']
+19 : ['14']
+
+USA:
+C:\Users\john\PycharmProjects\CS\venv\Scripts\python.exe C:/Users/john/PycharmProjects/CS/HillA9pt3/USA.py
+Alabama : ['red', 'white', 'blue', 'yellow']
+Arizona : ['red', 'white', 'blue', 'yellow']
+Arkansas : ['red', 'white', 'blue', 'yellow']
+California : ['red', 'white', 'blue', 'yellow']
+Colorado : ['red', 'white', 'blue', 'yellow']
+Connecticut : ['red', 'white', 'blue', 'yellow']
+Delaware : ['red', 'white', 'blue', 'yellow']
+Florida : ['red', 'white', 'blue', 'yellow']
+Georgia : ['red', 'white', 'blue', 'yellow']
+Idaho : ['red', 'white', 'blue', 'yellow']
+Illinois : ['red', 'white', 'blue', 'yellow']
+Indiana : ['red', 'white', 'blue', 'yellow']
+Iowa : ['red', 'white', 'blue', 'yellow']
+Kansas : ['red', 'white', 'blue', 'yellow']
+Kentucky : ['red', 'white', 'blue', 'yellow']
+Louisiana : ['red', 'white', 'blue', 'yellow']
+Maine : ['red', 'white', 'blue', 'yellow']
+Maryland : ['red', 'white', 'blue', 'yellow']
+Massachusetts : ['red', 'white', 'blue', 'yellow']
+Michigan : ['red', 'white', 'blue', 'yellow']
+Minnesota : ['red', 'white', 'blue', 'yellow']
+Mississippi : ['red', 'white', 'blue', 'yellow']
+Missouri : ['red', 'white', 'blue', 'yellow']
+Montana : ['red', 'white', 'blue', 'yellow']
+Nebraska : ['red', 'white', 'blue', 'yellow']
+Nevada : ['red', 'white', 'blue', 'yellow']
+New Hampshire : ['red', 'white', 'blue', 'yellow']
+New Jersey : ['red', 'white', 'blue', 'yellow']
+New Mexico : ['red', 'white', 'blue', 'yellow']
+New York : ['red', 'white', 'blue', 'yellow']
+North Carolina : ['red', 'white', 'blue', 'yellow']
+North Dakota : ['red', 'white', 'blue', 'yellow']
+Ohio : ['red', 'white', 'blue', 'yellow']
+Oklahoma : ['red', 'white', 'blue', 'yellow']
+Oregon : ['red', 'white', 'blue', 'yellow']
+Pennsylvania : ['red', 'white', 'blue', 'yellow']
+Rhode Island : ['red', 'white', 'blue', 'yellow']
+South Carolina : ['red', 'white', 'blue', 'yellow']
+South Dakota : ['red', 'white', 'blue', 'yellow']
+Tennessee : ['red', 'white', 'blue', 'yellow']
+Texas : ['red', 'white', 'blue', 'yellow']
+Utah : ['red', 'white', 'blue', 'yellow']
+Vermont : ['red', 'white', 'blue', 'yellow']
+Virginia : ['red', 'white', 'blue', 'yellow']
+Washington : ['red', 'white', 'blue', 'yellow']
+West Virginia : ['red', 'white', 'blue', 'yellow']
+Wisconsin : ['red', 'white', 'blue', 'yellow']
+Wyoming : ['red', 'white', 'blue', 'yellow']
+
+Alabama : ['red']
+Arizona : ['red']
+Arkansas : ['red']
+California : ['white']
+Colorado : ['white']
+Connecticut : ['white']
+Delaware : ['red']
+Florida : ['white']
+Georgia : ['blue']
+Idaho : ['red']
+Illinois : ['red']
+Indiana : ['white']
+Iowa : ['blue']
+Kansas : ['red']
+Kentucky : ['blue']
+Louisiana : ['blue']
+Maine : ['red']
+Maryland : ['white']
+Massachusetts : ['red']
+Michigan : ['blue']
+Minnesota : ['red']
+Mississippi : ['white']
+Missouri : ['white']
+Montana : ['yellow']
+Nebraska : ['yellow']
+Nevada : ['blue']
+New Hampshire : ['white']
+New Jersey : ['white']
+New Mexico : ['blue']
+New York : ['yellow']
+North Carolina : ['white']
+North Dakota : ['blue']
+Ohio : ['red']
+Oklahoma : ['yellow']
+Oregon : ['yellow']
+Pennsylvania : ['blue']
+Rhode Island : ['blue']
+South Carolina : ['red']
+South Dakota : ['white']
+Tennessee : ['yellow']
+Texas : ['white']
+Utah : ['yellow']
+Vermont : ['blue']
+Virginia : ['red']
+Washington : ['white']
+West Virginia : ['yellow']
+Wisconsin : ['white']
+Wyoming : ['blue']
+
+Sudoku Magic tour:
+C:\Users\john\PycharmProjects\CS\venv\Scripts\python.exe C:/Users/john/PycharmProjects/CS/HillA9pt3/mainSudoku9x9.py
+***********
+3..|.8.|...
+...|7..|..5
+1..|...|...
+-----------
+...|...|36.
+..2|..4|...
+.7.|...|...
+-----------
+...|.6.|13.
+.45|2..|...
+...|...|8..
+
+not able to be solved with AC3 alone.... using backtracking...
+
+@@@@@@@@@@@
+354|186|927
+298|743|615
+167|952|483
+-----------
+481|527|369
+932|614|578
+576|398|241
+-----------
+729|865|134
+845|231|796
+613|479|852
+
